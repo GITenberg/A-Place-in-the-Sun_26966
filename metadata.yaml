@@ -1,0 +1,36 @@
+_repo: A-Place-in-the-Sun_26966
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marlowe, Stephen
+    aliases:
+    - Wilder, Stephen
+    - Thames, C. H.
+    - Lesser, Milton
+    - Ridgway, Jason
+    - Chase, Adam
+    birthdate: 1928
+    deathdate: 2008
+    gutenberg_agent_id: '32369'
+    url: http://www.gutenberg.org/2009/agents/32369
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Marlowe
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26966'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Mayhem, Johnny (Fictitious character) -- Fiction'
+- !lcsh 'Short stories'
+title: A Place in the Sun
+url: http://www.gutenberg.org/ebooks/26966
